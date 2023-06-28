@@ -1,0 +1,4 @@
+module_name::wordpress::db_host: 'localhost'
+module_name::wordpress::db_name: 'wordpress'
+module_name::wordpress::db_user: 'wordpressuser'
+module_name::wordpress::db_password: 'password'

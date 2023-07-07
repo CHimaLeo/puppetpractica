@@ -1,7 +1,7 @@
 node 'default' {
-  include app::wordpress
+  include app
 }
 
 node 'cliente' {
-  include app::wordpress
+  include app 
 }
